@@ -1,0 +1,85 @@
+
+*   {
+    margin: 0;
+    padding: 0;
+}
+.main-q1    {
+    width: 100%;
+    height: 100vh;
+}
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    background-color: #000;
+    width: 100%;
+    height: 84px;
+    align-items: center;
+}
+.left-main-q1   {
+    margin-left: 50px;
+}
+.right-main-q1   {
+    margin-right: 100px;
+}
+.text1-q1   {
+    font-size: 40px;
+}
+.text1  {
+    color: aqua;
+}
+.text2 {
+    color: #fff;
+}
+.right-text1-q1 {
+    color: aqua;
+    font-size: 23px;
+    padding-left: 15px;
+}
+.right-text2-q1 {
+    color: #fff;
+}
+.main-hero-q1   {
+    background-image: url('../img/SERVICES.png');
+    width: 100%;
+    height: 630px;
+}
+.inner-main-q1   {
+    display: flex;
+    margin: 0 auto;
+    width: 80%;
+}
+.inner-main-q1   {
+    padding-top: 50px;
+}
+.tittle-main    {
+    color: aqua;
+    text-align: center;
+    font-size: 40px;
+    padding-top: 50px;
+}
+.container  {
+    margin: 0 auto;
+    width: 80%;
+}
+.inner-main-block1-q1   {
+    color: #fff;
+}
+.inner-main-block1-q1   h3{
+    font-size: 30px;
+    color: aqua;
+}
+.menu   {
+    margin-left: 30px;
+}
+.menu-text1 {
+    padding-top: 10px;
+    font-size: 23px;
+}
+.main-block2-q1 {
+    margin-top: 70px;
+}
+.left-main-q1{
+
+}
+.main-block3-q1 {
+}
